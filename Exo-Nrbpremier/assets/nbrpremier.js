@@ -16,5 +16,6 @@ function testerNbr() {
         document.getElementById("reponse").innerHTML = `Le nombre ${input} n'est pas un nombre Premier`;
     }
 
+}  
+        
 
-}         
